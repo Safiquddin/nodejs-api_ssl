@@ -1,4 +1,4 @@
-# nodejs-api
+# nodejs-api jenkins job process
 For Jenkins job
 plugins should be installed are Nodejs Plugin,Publish over ssh plugin(for deploy to docker server)
 manage jenkins>>global tool configuration setup nodejs:7 install automatically
